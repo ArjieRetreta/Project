@@ -26,4 +26,6 @@ int main(){
 	insertAtbegin(44);
 	insertAtbegin(50);
 	printList();
+	
+	return 0;
 }
